@@ -4,3 +4,4 @@ A medical diagnostic decision support model on DBMI database with 95% accuracy. 
 Output of ML is given in epoch_out.txt
 
 INPUT FILES: columbia.csv  downloaded from DBMI site. Declared ftr ids in: col_ftrs1: dis ids in: col_diag1nr (Note: case id = diag ids) and col_auinr.
+Model is run to obtain atomic vectors (dbmi_report2.txt) which are extrapolated to ftr-ftr and ftr-dis links.
