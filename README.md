@@ -1,7 +1,7 @@
 # Delta-diag
 A medical diagnostic decision support model on DBMI database with 95% accuracy. This model is being extended to a database consisting of 171K published clinical reports.
 
-Output of ML is given in epoch_out.txt
+Output of ML with 100% accuracy is given in epoch_out.txt Extrapolation of shared atomic positions of features to diagnosis is obtained with 95% accuracy.
 
 INPUT FILES: columbia.csv  downloaded from DBMI site. Declared ftr ids in: col_ftrs1: dis ids in: col_diag1nr (Note: case id = diag ids) and col_auinr. Database MRHIER of UMLS 2024 is obtained from NLM site and used for unification purpose.
 
