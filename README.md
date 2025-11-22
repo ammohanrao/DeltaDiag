@@ -9,4 +9,4 @@ Model is run to obtain atomic vectors (dbmi_report2.txt) which are extrapolated 
 
 Over 6 million vectors for ftr-dis links are obtained from model https://github.com/AndriyMulyar/semantic-text-similarity.
 
-
+Script files: col_dbmi.sh, col_dbmi1.sh and col_dbmi2.sh are run sequentially to get final diagnosis.
