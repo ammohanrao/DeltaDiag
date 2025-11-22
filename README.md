@@ -5,10 +5,10 @@ Output of ML with 100% accuracy is given in epoch_out.txt.
 
 Extrapolation of shared atomic positions of features to diagnosis is obtained with 95% accuracy.
 
-INPUT FILES: columbia.csv  downloaded from DBMI site. Declared ftr ids in: col_ftrs1: dis ids in: col_diag1nr (Note: case id = diag ids) and col_auinr. Database MRHIER of UMLS 2024 is obtained from NLM site and used for unification purpose.
+INPUT FILES: columbia.csv  downloaded from DBMI site. Declared feature ids in: col_ftrs1: dis ids in: col_diag1nr (Note: case id = diag ids) and col_auinr. Database MRHIER of UMLS 2024 is obtained from NLM site and used for unification purpose.
 
-Model is run to obtain atomic vectors (dbmi_report2.txt) which are extrapolated to ftr-ftr and ftr-dis links.
+Model is run to obtain atomic vectors (dbmi_report2.txt) which are extrapolated to feature-feature and feature-disease links.
 
-Over 6 million vectors for ftr-dis links are obtained from model https://github.com/AndriyMulyar/semantic-text-similarity are used in datafile (col_ftrs_diagvec_pmcver3). Vectors relevant here are given in files data_pmc_diag.txt and data_pmc_ndiag.txt.
+Over 6 million vectors for feature-disease links are obtained from model https://github.com/AndriyMulyar/semantic-text-similarity are used in datafile (col_ftrs_diagvec_pmcver3.txt). Vectors relevant here are given in files data_pmc_diag.txt and data_pmc_ndiag.txt.
 
 Script files: col_dbmi.sh, col_dbmi1.sh and col_dbmi2.sh are run sequentially to get final diagnosis.
