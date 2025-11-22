@@ -7,6 +7,6 @@ INPUT FILES: columbia.csv  downloaded from DBMI site. Declared ftr ids in: col_f
 
 Model is run to obtain atomic vectors (dbmi_report2.txt) which are extrapolated to ftr-ftr and ftr-dis links.
 
-Over 6 million vectors for ftr-dis links are obtained from model https://github.com/AndriyMulyar/semantic-text-similarity.
+Over 6 million vectors for ftr-dis links are obtained from model https://github.com/AndriyMulyar/semantic-text-similarity are used in datafile (col_ftrs_diagvec_pmcver3).
 
 Script files: col_dbmi.sh, col_dbmi1.sh and col_dbmi2.sh are run sequentially to get final diagnosis.
