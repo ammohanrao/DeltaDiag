@@ -14,3 +14,5 @@ Over 6 million vectors for feature-disease links are obtained from model https:/
 Script files, col_dbmi.sh, col_dbmi1.sh and col_dbmi2.sh are run sequentially to get final diagnosis.
 
 Weights for feature disease links derived from both unify and pmc clinical reports are given in data_pmc_diag1.txt and data_pmc_ndiag1.txt
+
+PUBMED CENTRAL opensource clinical reports are processed to obtain files: col_prelim2_def.txt, col_core_diagnr3.txt and evo_data_corpus.txt. Note that these data shares ids from dbmi database. For features 1 to 408 from  dbmi, and 409 to 871 from pmc. For diseases 1 to 134 from dbmi and 135 to 2132 from pmc. Atoms shared with pmc data are shown in core_aui_nr.txt.
