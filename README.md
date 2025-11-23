@@ -1,4 +1,6 @@
-# "Expectation, qualiﬁcation and proximity determine each word’s meaning. This entails cognition."
+````
+ "Expectation, qualiﬁcation and proximity determine each word’s meaning. This entails cognition."
+````
 
                                    -By Annambhatta. https://en.wikipedia.org/wiki/Tarka-Sangraha
 # Delta-diag
