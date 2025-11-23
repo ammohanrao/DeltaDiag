@@ -1,7 +1,7 @@
 ````
  "Expectation, qualiﬁcation and proximity determine each word’s meaning. This entails cognition."
                                    
-                                   -By Annambhatta. https://en.wikipedia.org/wiki/Tarka-Sangraha
+                                   -Primer of Indian Logic by Annambhatta. https://en.wikipedia.org/wiki/Tarka-Sangraha
 ````
 # Delta-diag
 A medical diagnostic decision support model on DBMI database with 95% accuracy. This model is being extended to a database consisting of 171K published clinical reports.
