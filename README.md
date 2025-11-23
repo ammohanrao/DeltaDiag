@@ -25,5 +25,6 @@ PMC output of ML with 100% accuracy is given in epoch_out1.txt.
 
 References
 1. Unification Grammars by Nissim Francez and Schuly Wintner. 2011. Cambridge University Press.
-2. Primer of Indian Logic by Annambhatta. https://en.wikipedia.org/wiki/Tarka-Sangraha
-3. https://www.academia.edu/127352969/Primer_of_Indian_Logic
+2. Automated Knowledge Acquisition from Clinical Narrative Reports. Xiaoyan Wang, Amy Chused, Noémie Elhadad, Carol Friedman, Marianthi Markatou. AMIA Annu Symp Proc.2008:783–787.
+3. Primer of Indian Logic by Annambhatta. https://en.wikipedia.org/wiki/Tarka-Sangraha
+4. https://www.academia.edu/127352969/Primer_of_Indian_Logic
