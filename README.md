@@ -1,5 +1,5 @@
 ````
-Expectation, qualiﬁcation and proximity determine each word’s meaning. This entails cognition.
+"Expectation, qualiﬁcation and proximity determine each word’s meaning. This entails cognition."
      -Annam Bhatta’s Tarkasamgraha (c. 1623; “Compendium of Logic”)       
 ````
 # Delta-diag
