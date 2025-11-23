@@ -24,5 +24,6 @@ PUBMED CENTRAL opensource clinical reports are processed to obtain files: col_pr
 PMC output of ML with 100% accuracy is given in epoch_out1.txt.
 
 References
-1. Primer of Indian Logic by Annambhatta. https://en.wikipedia.org/wiki/Tarka-Sangraha
-2. https://www.academia.edu/127352969/Primer_of_Indian_Logic
+1. Unification Grammars by Nissim Francez and Schuly Wintner. 2011. Cambridge University Press.
+2. Primer of Indian Logic by Annambhatta. https://en.wikipedia.org/wiki/Tarka-Sangraha
+3. https://www.academia.edu/127352969/Primer_of_Indian_Logic
