@@ -1,6 +1,5 @@
 ````
- "Expectation, qualiﬁcation and proximity determine each word’s meaning. This entails cognition."
-         -Primer of Indian Logic by Annambhatta. https://en.wikipedia.org/wiki/Tarka-Sangraha
+ "Expectation, qualiﬁcation and proximity determine each word’s meaning. This entails cognition."         
 ````
 # Delta-diag
 A medical diagnostic decision support model on DBMI database with 95% accuracy. This model is being extended to a database consisting of 171K published clinical reports.
@@ -22,3 +21,7 @@ Weights for feature disease links derived from both unify and pmc clinical repor
 PUBMED CENTRAL opensource clinical reports are processed to obtain files: col_prelim2_def.txt, col_core_diagnr3.txt and evo_data_corpus.txt. Note that these data shares ids from dbmi database. For features 1 to 408 from  dbmi, and 409 to 871 from pmc. For diseases 1 to 134 from dbmi and 135 to 2132 from pmc. Atoms shared with pmc data are shown in core_aui_nr.txt.
 
 PMC output of ML with 100% accuracy is given in epoch_out1.txt.
+
+References
+1. Primer of Indian Logic by Annambhatta. https://en.wikipedia.org/wiki/Tarka-Sangraha
+2. https://www.academia.edu/127352969/Primer_of_Indian_Logic
