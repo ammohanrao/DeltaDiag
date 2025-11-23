@@ -1,6 +1,6 @@
 ````
  "Expectation, qualiﬁcation and proximity determine each word’s meaning. This entails cognition."
-   -Annam Bhatta’s Tarkasamgraha (c. 1623; “Compendium of Logic”)       
+                   -Annam Bhatta’s Tarkasamgraha (c. 1623; “Compendium of Logic”)       
 ````
 # Delta-diag
 A medical diagnostic decision support model on DBMI database with 95% accuracy. This model is being extended to a database consisting of 171K published clinical reports.
