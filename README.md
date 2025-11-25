@@ -22,7 +22,7 @@ Proximity = BERT vector of feature - disease link
 Over 6 million vectors for feature-disease links are obtained from model https://github.com/AndriyMulyar/semantic-text-similarity are used in datafile (col_ftrs_diagvec_pmcver3.txt). Vectors relevant here are given in files data_pmc_diag.txt and data_pmc_ndiag.txt.
 
 ````
-Expectation = B / A where B is variable and A is constant for given links. Expectation is higher if B is high and low if B is low. B = bert vector. A=atomic vector.
+Expectation = B / A where B is variable and A is constant. Expectation is higher if B is high and low if B is low. B = bert vector. A=atomic vector.
 ````
 Script files, col_dbmi.sh, col_dbmi1.sh and col_dbmi2.sh are run sequentially to get final diagnosis.
 
