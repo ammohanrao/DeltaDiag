@@ -17,12 +17,12 @@ Qualification Q = magnitude of vectors [ A, n, D] where A = unified atom of feat
 Model is run to obtain atomic vectors (dbmi_report2.txt) which are extrapolated to feature-feature and feature-disease links.
 
 ````
-Proximity = BERT vector of feature - disease link
+Proximity B = BERT vector of feature - disease link
 ````
 Over 6 million vectors for feature-disease links are obtained from model https://github.com/AndriyMulyar/semantic-text-similarity are used in datafile (col_ftrs_diagvec_pmcver3.txt). Vectors relevant here are given in files data_pmc_diag.txt and data_pmc_ndiag.txt.
 
 ````
-Expectation = (B / Q). B and Q are bert and atomic vectors where B is variable and Q is constant. Expectation is higher if B is high and vice versa.
+Expectation E = (B / Q). B and Q are bert and atomic vectors where B is variable and Q is constant. Expectation is higher if B is high and vice versa.
 ````
 Script files, col_dbmi.sh, col_dbmi1.sh and col_dbmi2.sh are run sequentially to get final diagnosis.
 
