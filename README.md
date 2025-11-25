@@ -21,6 +21,9 @@ Proximity
 ````
 Over 6 million vectors for feature-disease links are obtained from model https://github.com/AndriyMulyar/semantic-text-similarity are used in datafile (col_ftrs_diagvec_pmcver3.txt). Vectors relevant here are given in files data_pmc_diag.txt and data_pmc_ndiag.txt.
 
+````
+Expectation
+````
 Script files, col_dbmi.sh, col_dbmi1.sh and col_dbmi2.sh are run sequentially to get final diagnosis.
 
 Weights for feature disease links derived from both unify and pmc clinical reports are given in data_pmc_diag1.txt and data_pmc_ndiag1.txt
