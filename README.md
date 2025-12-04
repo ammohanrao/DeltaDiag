@@ -1,7 +1,7 @@
 ````
 "Expectation, qualiﬁcation and proximity determine each word’s meaning. This entails cognition.
 Expectation is hidden cognition of a word. which appears only by logical interaction of other words.
-Weight (ω ) of a word is its qualiﬁcation."
+Weight of a word is its qualiﬁcation."
      -Annam Bhatta’s Tarkasamgraha (c. 1623; “Compendium of Logic”)       
 ````
 # Delta-diag
