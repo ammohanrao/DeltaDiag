@@ -20,7 +20,7 @@ Qualification Q = magnitude of vectors [ A, n, D] where A = unified atom of feat
 Model is run to obtain atomic vectors (dbmi_report2.txt) which are extrapolated to feature-feature and feature-disease links.
 
 ````
-Proximity B = BERT vector of feature - disease link
+Proximity B = BERT vector of {feature to disease} link
 ````
 Over 6 million vectors for feature-disease links are obtained from model https://github.com/AndriyMulyar/semantic-text-similarity are used in datafile (col_ftrs_diagvec_pmcver3.txt). Vectors relevant here are given in files data_pmc_diag.txt and data_pmc_ndiag.txt.
 
