@@ -14,6 +14,8 @@ Extrapolation of shared atomic positions of features to diagnosis is obtained wi
 
 Input files are: columbia.csv  downloaded from DBMI site. Declared feature ids in: col_ftrs1: dis ids in: col_diag1nr (Note: case id = diag ids) and col_auinr. Database MRHIER of UMLS 2024 is obtained from NLM site and used for unification purpose.
 
+## Definitions
+
 ````
 Qualification Q = magnitude of vectors [ A, n, D] where A = unified atom of features and disease (D). n= position of atom,
 `````
