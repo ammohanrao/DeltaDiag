@@ -16,7 +16,10 @@ Input files are: columbia.csv  downloaded from DBMI site. Declared feature ids i
 
 ## Definitions
 atom = each hierarchical step of a concept. atomic number = sequential number in the hierarchy. valence = terminal atomic number in unify causing a diagnosis. adjunct = terminal atomic number in unify not causing a diagnosis.
-atomic weight = approximation of vectors of qualification and proximity.
+atomic weight = approximation of vectors of qualification and proximity. cognition = sum of atomic weights of valence and adjunct. expectation = 1 which is constant. 
+
+### valid cognition
+derived cognition whose expectation is 1.
 
 ````
 Qualification Q = magnitude of vectors [ A, n, D] where A = unified atom of features and disease (D). n= position of atom,
