@@ -14,13 +14,6 @@ Extrapolation of shared atomic positions of features to diagnosis is obtained wi
 
 Input files are: columbia.csv  downloaded from DBMI site. Declared feature ids in: col_ftrs1: dis ids in: col_diag1nr (Note: case id = diag ids) and col_auinr. Database MRHIER of UMLS 2024 is obtained from NLM site and used for unification purpose.
 
-## Definitions
-atom = each hierarchical step of a concept. atomic number = sequential number in the hierarchy. valence = terminal atomic number in unify causing a diagnosis. adjunct = terminal atomic number in unify not causing a diagnosis.
-atomic weight = approximation of vectors of qualification and proximity. cognition = sum of atomic weights of valence and adjunct. expectation = 1 which is constant. 
-
-### valid cognition
-derived cognition whose expectation is 1.
-
 ````
 Qualification Q = magnitude of vectors [ A, n, D] where A = unified atom of features and disease (D). n= position of atom,
 `````
@@ -41,6 +34,13 @@ Weights for feature disease links derived from both unify and pmc clinical repor
 PUBMED CENTRAL opensource clinical reports are processed to obtain files: col_prelim2_def.txt, col_core_diagnr3.txt and evo_data_corpus.txt. Note that these data shares ids from dbmi database. For features 1 to 408 from  dbmi, and 409 to 871 from pmc. For diseases 1 to 134 from dbmi and 135 to 2132 from pmc. Atoms shared with pmc data are shown in core_aui_nr.txt.
 
 PMC output of ML with 100% accuracy is given in epoch_out1.txt.
+
+## Definitions
+atom = each hierarchical step of a concept. atomic number = sequential number in the hierarchy. valence = terminal atomic number in unify causing a diagnosis. adjunct = terminal atomic number in unify not causing a diagnosis.
+atomic weight = approximation of vectors of qualification and proximity. cognition = sum of atomic weights of valence and adjunct. expectation = 1 which is constant. 
+
+### valid cognition
+derived cognition whose expectation is 1.
 
 References
 1. Unification Grammars by Nissim Francez and Schuly Wintner. 2011. Cambridge University Press.
