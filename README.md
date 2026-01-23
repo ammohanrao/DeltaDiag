@@ -40,7 +40,7 @@ atom = each hierarchical step of a concept. atomic number = sequential number in
 atomic weight = approximation of vectors of qualification and proximity. cognition = sum of atomic weights of valence and adjunct. expectation = 1 which is constant. 
 
 ### valid cognition
-derived cognition whose expectation is 1.
+cognition whose expectation is 1.
 
 References
 1. Unification Grammars by Nissim Francez and Schuly Wintner. 2011. Cambridge University Press.
