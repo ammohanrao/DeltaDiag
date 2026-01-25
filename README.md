@@ -37,7 +37,7 @@ PMC output of ML with 100% accuracy is given in epoch_out1.txt.
 
 ## Definitions
 atom = each hierarchical step of a concept. atomic number = sequential number in the hierarchy. valence = terminal atomic number in unify causing a diagnosis. adjunct = terminal atomic number in unify not causing a diagnosis.
-atomic weight = approximation of vectors of qualification and proximity. cognition = sum of atomic weights of valence and adjunct. expectation = 1 which is constant. 
+atomic weight = approximation of vectors of qualification and proximity. cognition = relationship between valence and adjunct. expectation = 1 which is constant. 
 
 ### valid cognition
 cognition whose expectation is 1.
