@@ -42,6 +42,10 @@ atomic weight = approximation of vectors of qualification and proximity. cogniti
 ### valid cognition
 cognition whose expectation is 1.
 
+# How to run the program
+
+
+
 References
 1. Unification Grammars by Nissim Francez and Schuly Wintner. 2011. Cambridge University Press.
 2. Automated Knowledge Acquisition from Clinical Narrative Reports. Xiaoyan Wang, Amy Chused, Noémie Elhadad, Carol Friedman, Marianthi Markatou. AMIA Annu Symp Proc.2008:783–787.
