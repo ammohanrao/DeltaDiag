@@ -6,8 +6,8 @@ Weight of a word is its qualiﬁcation. Distance of a word is its proximity. Sen
      -Annam Bhatta’s Tarkasamgraha (c. 1623; “Compendium of Logic”)       
 ````
 
-<img align="center" width="41" height="30" alt="diagnose" src="https://github.com/user-attachments/assets/0758a7dc-dc8f-4bdf-bf78-8e71166d4a1e"/>
-<img width="184" height="51" alt="pairs-logo" src="https://github.com/user-attachments/assets/20387c29-ca7d-4c42-8898-4a414a17c2f6" />
+<img align="center" width="41" height="30" alt="diagnose" src="https://github.com/user-attachments/assets/0758a7dc-dc8f-4bdf-bf78-8e71166d4a1e"/><div>
+<img width="184" height="51" alt="pairs-logo" src="https://github.com/user-attachments/assets/20387c29-ca7d-4c42-8898-4a414a17c2f6" /></div>
 
 
 # Delta-diag
