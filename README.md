@@ -6,13 +6,7 @@ Weight of a word is its qualiﬁcation. Distance of a word is its proximity. Sen
      -Annam Bhatta’s Tarkasamgraha (c. 1623; “Compendium of Logic”)       
 ````
 
-<head><style>.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%; /* Optional: set a width for the image */
-}
-<img width="41" height="30" class="center" alt="diagnose" src="https://github.com/user-attachments/assets/0758a7dc-dc8f-4bdf-bf78-8e71166d4a1e" /></style></head>
+<center><img width="41" height="30" class="center" alt="diagnose" src="https://github.com/user-attachments/assets/0758a7dc-dc8f-4bdf-bf78-8e71166d4a1e" /></cener>div></head>
 
 # Delta-diag
 A medical diagnostic decision support model on DBMI database with 95% accuracy. This model is being extended to a database consisting of 171K published clinical reports.
