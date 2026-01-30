@@ -12,7 +12,7 @@ Weight of a word is its qualiﬁcation. Distance of a word is its proximity. Sen
   margin-right: auto;
   width: 50%; /* Optional: set a width for the image */
 }
-</style><img width="41" height="30" class="center" alt="diagnose" src="https://github.com/user-attachments/assets/0758a7dc-dc8f-4bdf-bf78-8e71166d4a1e" /></head>
+<img width="41" height="30" class="center" alt="diagnose" src="https://github.com/user-attachments/assets/0758a7dc-dc8f-4bdf-bf78-8e71166d4a1e" /></style></head>
 
 # Delta-diag
 A medical diagnostic decision support model on DBMI database with 95% accuracy. This model is being extended to a database consisting of 171K published clinical reports.
