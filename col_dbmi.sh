@@ -8,6 +8,8 @@ OUT_DATA2="./data/col/ndiag/"
 OUT_DATA3="./data/pmc/diag/"
 OUT_DATA4="./data/pmc/ndiag/"
 
+#dbmi_pts: col1: ftr_id, ftr, case_id (same as diag_id)
+
 while read -r NUMNR 
 do
 	echo "$NUMNR"
