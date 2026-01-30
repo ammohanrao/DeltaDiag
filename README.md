@@ -43,7 +43,7 @@ atomic weight = approximation of vectors of qualification and proximity. cogniti
 cognition whose expectation is 1.
 
 # How to run the program
-
+run col_dbmi.sh, col_dbmi1.sh and col_dbmi2.sh sequentially.
 
 
 References
