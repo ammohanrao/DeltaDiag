@@ -67,9 +67,12 @@ run applicate.sh
 <img width="200" height="200" alt="cat1" src="https://github.com/user-attachments/assets/7a0cae87-6b27-4915-85b9-b04b40751b04" />
 <img width="200" height="200" alt="cat" src="https://github.com/user-attachments/assets/2ac52918-02b7-4669-bacd-e825903acf26" />
 
-References
+# References
 1. Unification Grammars by Nissim Francez and Schuly Wintner. 2011. Cambridge University Press.
 2. Automated Knowledge Acquisition from Clinical Narrative Reports. Xiaoyan Wang, Amy Chused, Noémie Elhadad, Carol Friedman, Marianthi Markatou. AMIA Annu Symp Proc.2008:783–787.
 3. https://www.ncbi.nlm.nih.gov/books/NBK9685/table/ch03.T.computable_hierarchies_file_mrhie/
 4. Primer of Indian Logic by Annambhatta. https://en.wikipedia.org/wiki/Tarka-Sangraha
 5. https://www.academia.edu/127352969/Primer_of_Indian_Logic
+6. Princeton University "About WordNet." WordNet. Princeton University. 2010. 
+
+
