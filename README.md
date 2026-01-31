@@ -49,14 +49,13 @@ atomic weight = approximation of vectors of qualification and proximity. cogniti
 
 ### valid cognition
 cognition whose expectation is 1.
+````
+P(d) = k/d where k = proportionality constant. d = distance between positions of unify and terminal atom. p(d) = probability.
+````
+<img width="200" height="200" alt="cortex1" src="https://github.com/user-attachments/assets/dcd671fb-aa50-4162-99e1-f8db840158aa">
+<img width="200" height="200" alt="pulm1" src="https://github.com/user-attachments/assets/b007066c-01e5-40d9-a3ee-26a5cd77cf7a"/>
 
-<img width="2033" height="1019" alt="cortex1" src="https://github.com/user-attachments/assets/dcd671fb-aa50-4162-99e1-f8db840158aa">
-
-#### arrows indicate links between unify (head) and terminal positions of atoms (tails).
-
-<img width="902" height="859" alt="pulm1" src="https://github.com/user-attachments/assets/b007066c-01e5-40d9-a3ee-26a5cd77cf7a"/>
-
-#### concepts having pulmonary nodule at 7-12 positions
+Arrows indicate links between unify (head) and terminal positions of atoms (tails). Concepts having pulmonary nodule at 7-12 positions (right).
 
 # How to run the program
 run col_dbmi.sh, col_dbmi1.sh and col_dbmi2.sh sequentially.
