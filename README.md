@@ -45,14 +45,19 @@ PMC output of ML with 100% accuracy is given in epoch_out1.txt.
 atom = each hierarchical step of a concept. atomic number = sequential number in the hierarchy. valence = terminal atomic number in unify causing a diagnosis. adjunct = terminal atomic number in unify not causing a diagnosis.
 atomic weight = approximation of vectors of qualification and proximity. cognition = relationship between valence and adjunct. expectation = 1 which is constant. 
 
+<img width="456" height="487" alt="difdiag" src="https://github.com/user-attachments/assets/b4599817-c481-47da-a89c-05f52d3d18e2" />
+
 ### valid cognition
 cognition whose expectation is 1.
 
+#### arrows indicate links between unify (head) and terminal positions of atoms (tails).
+<img width="2033" height="1019" alt="cortex1" src="https://github.com/user-attachments/assets/dcd671fb-aa50-4162-99e1-f8db840158aa">
+
+#### concepts having pulmonary nodule at 7-12 positions
+<img width="902" height="859" alt="pulm1" src="https://github.com/user-attachments/assets/b007066c-01e5-40d9-a3ee-26a5cd77cf7a"/>
+
 # How to run the program
 run col_dbmi.sh, col_dbmi1.sh and col_dbmi2.sh sequentially.
-<img width="902" height="859" alt="pulm1" src="https://github.com/user-attachments/assets/b007066c-01e5-40d9-a3ee-26a5cd77cf7a" />
-
-
 
 References
 1. Unification Grammars by Nissim Francez and Schuly Wintner. 2011. Cambridge University Press.
