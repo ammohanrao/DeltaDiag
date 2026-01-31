@@ -66,9 +66,12 @@ run col_dbmi.sh, col_dbmi1.sh and col_dbmi2.sh sequentially.
 
 Wordnet hierarchy is used to analyze the sentence. Run applicate.sh to generate unify of "cat" and "bus".
 
-#### correct (right)
+#### correct (middle). hierarchy (right).
 <img width="200" height="200" alt="cat1" src="https://github.com/user-attachments/assets/7a0cae87-6b27-4915-85b9-b04b40751b04" />
 <img width="200" height="200" alt="cat" src="https://github.com/user-attachments/assets/2ac52918-02b7-4669-bacd-e825903acf26" />
+<img width="200" height="200" alt="cat2" src="https://github.com/user-attachments/assets/7a4c1d97-b5c3-4cae-ac66-3ace5b5bb52f" />
+
+
 
 # References
 1. Unification Grammars by Nissim Francez and Schuly Wintner. 2011. Cambridge University Press.
