@@ -50,6 +50,7 @@ cognition whose expectation is 1.
 
 # How to run the program
 run col_dbmi.sh, col_dbmi1.sh and col_dbmi2.sh sequentially.
+<img width="6308" height="704" alt="PMC3350003" src="https://github.com/user-attachments/assets/a27e859f-4c05-48b9-b400-8038a6e9146a" />
 
 
 References
