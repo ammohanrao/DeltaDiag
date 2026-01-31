@@ -59,6 +59,9 @@ cognition whose expectation is 1.
 # How to run the program
 run col_dbmi.sh, col_dbmi1.sh and col_dbmi2.sh sequentially.
 
+# Applicability
+run applicate.sh
+
 References
 1. Unification Grammars by Nissim Francez and Schuly Wintner. 2011. Cambridge University Press.
 2. Automated Knowledge Acquisition from Clinical Narrative Reports. Xiaoyan Wang, Amy Chused, Noémie Elhadad, Carol Friedman, Marianthi Markatou. AMIA Annu Symp Proc.2008:783–787.
