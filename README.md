@@ -53,9 +53,8 @@ cognition whose expectation is 1.
 P(d) = k/d where k = proportionality constant. d = distance between positions of unify and terminal atom. p(d) = probability.
 ````
 <img width="200" height="200" alt="cortex1" src="https://github.com/user-attachments/assets/dcd671fb-aa50-4162-99e1-f8db840158aa">
-<img width="200" height="200" alt="pulm1" src="https://github.com/user-attachments/assets/b007066c-01e5-40d9-a3ee-26a5cd77cf7a"/>
 
-Arrows indicate links between unify (head) and terminal positions of atoms (tails). Concepts having pulmonary nodule at 7-12 positions (right).
+Arrows indicate links between unify (head) and terminal positions of atoms (tails).
 
 # How to run the program
 run col_dbmi.sh, col_dbmi1.sh and col_dbmi2.sh sequentially.
@@ -66,10 +65,12 @@ run col_dbmi.sh, col_dbmi1.sh and col_dbmi2.sh sequentially.
 
 Wordnet hierarchy is used to analyze the sentence. Run applicate.sh to generate unify of "cat" and "bus".
 
-#### correct (middle). hierarchy (right).
+#### correct (right).
 <img width="200" height="200" alt="cat1" src="https://github.com/user-attachments/assets/7a0cae87-6b27-4915-85b9-b04b40751b04" />
 <img width="200" height="200" alt="cat" src="https://github.com/user-attachments/assets/2ac52918-02b7-4669-bacd-e825903acf26" />
-<img width="200" height="200" alt="cat2" src="https://github.com/user-attachments/assets/7a4c1d97-b5c3-4cae-ac66-3ace5b5bb52f" />
+
+#### unified hierarchy between cat and bus from wordnet
+<img width="600" height="600" alt="cat2" src="https://github.com/user-attachments/assets/7a4c1d97-b5c3-4cae-ac66-3ace5b5bb52f" />
 
 
 
