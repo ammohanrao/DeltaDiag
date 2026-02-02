@@ -31,7 +31,7 @@ Proximity B = BERT vector of {feature to disease} link
 Over 6 million vectors for feature-disease links are obtained from model https://github.com/AndriyMulyar/semantic-text-similarity are used in datafile (col_ftrs_diagvec_pmcver3.txt). Vectors relevant here are given in files data_pmc_diag.txt and data_pmc_ndiag.txt.
 
 ````
-Expectation E = (B / Q). B and Q are bert and atomic vectors where B is variable and Q is constant. Expectation is set to 1.
+Expectation E = (B / Q). B and Q are bert and atomic vectors where B is variable and Q is constant. Expectation is constant.
 ````
 Script files, col_dbmi.sh, col_dbmi1.sh and col_dbmi2.sh are run sequentially to get final diagnosis.
 
@@ -43,7 +43,7 @@ PMC output of ML with 100% accuracy is given in epoch_out1.txt.
 
 ## Definitions
 atom = each hierarchical step of a concept. atomic number = sequential number in the hierarchy. valence = terminal atomic number in unify causing a diagnosis. adjunct = terminal atomic number in unify not causing a diagnosis.
-atomic weight = approximation of vectors of qualification and proximity. cognition = relationship between valence and adjunct. expectation = 1 which is constant. 
+atomic weight = approximation of vectors of qualification and proximity. cognition = relationship between valence and adjunct. expectation is constant. 
 
 <img width="456" height="487" alt="difdiag" src="https://github.com/user-attachments/assets/b4599817-c481-47da-a89c-05f52d3d18e2" />
 
