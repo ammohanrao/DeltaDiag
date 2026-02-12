@@ -35,6 +35,9 @@ Over 6 million vectors for feature-disease links are obtained from model https:/
 ````math
  EU(x) = \sum_y P_{x}(y)U(y)
 ````
+
+where U(y) is utility of y as diagnosis. Px(y) is our probability that the outcome Y = y would occur by testing do(X = x) to establish X = x.
+ 
 Script files, col_dbmi.sh, col_dbmi1.sh and col_dbmi2.sh are run sequentially to get final diagnosis.
 
 Weights for feature disease links derived from both unify and pmc clinical reports are given in data_pmc_diag1.txt and data_pmc_ndiag1.txt
