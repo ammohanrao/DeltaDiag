@@ -86,5 +86,5 @@ Wordnet hierarchy is used to analyze the sentence. Run applicate.sh to generate 
 4. Primer of Indian Logic by Annambhatta. https://en.wikipedia.org/wiki/Tarka-Sangraha
 5. https://www.academia.edu/127352969/Primer_of_Indian_Logic
 6. Princeton University "About WordNet." WordNet. Princeton University. 2010. 
-
+7. J. Pearl. 2021. The HandBookof Rationality, Causal and Counterfactual Inference. Published: Markus Knauff, Wolfgang Spohn . The MIT Press.
 
