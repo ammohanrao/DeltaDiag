@@ -36,8 +36,7 @@ Over 6 million vectors for feature-disease links are obtained from model https:/
  EU(x) = \sum_y P_{x}(y)U(y)
 ````
 
-<img width="200" height="200" alt="table" src="https://github.com/user-attachments/assets/669515cc-3c19-4453-8f95-e82d390d8dd8)" /><div></div>
-
+<img width="456" height="487" alt="table" src="https://github.com/user-attachments/assets/ccf670a4-d603-4973-88a4-7a76a8568dee)" />
 
 where U(y) is utility of y as diagnosis. Px(y) is our probability that the outcome Y = y would occur by testing do(X = x) to establish X = x.
  
