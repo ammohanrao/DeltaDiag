@@ -36,6 +36,9 @@ Over 6 million vectors for feature-disease links are obtained from model https:/
  EU(x) = \sum_y P_{x}(y)U(y)
 ````
 
+![triangle](https://github.com/user-attachments/assets/669515cc-3c19-4453-8f95-e82d390d8dd8)
+
+
 where U(y) is utility of y as diagnosis. Px(y) is our probability that the outcome Y = y would occur by testing do(X = x) to establish X = x.
  
 Script files, col_dbmi.sh, col_dbmi1.sh and col_dbmi2.sh are run sequentially to get final diagnosis.
