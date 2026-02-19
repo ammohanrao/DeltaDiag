@@ -5,7 +5,7 @@ Weight of a word is its qualiﬁcation. Distance of a word is its proximity. Sen
  expectancy, qualiﬁcation or proximity has no meaning. "
      -Annam Bhatta’s Tarkasamgraha (c. 1623; “Compendium of Logic”)       
 ````
-# Unify in atomic paths for learning causality, context and cognition.
+# Unify in atomic paths for causality, context and cognition.
 
 <img width="184" height="51" alt="pairs-logo" src="https://github.com/user-attachments/assets/20387c29-ca7d-4c42-8898-4a414a17c2f6" /><div></div>
 <img align="center" width="41" height="30" alt="diagnose" src="https://github.com/user-attachments/assets/0758a7dc-dc8f-4bdf-bf78-8e71166d4a1e"/>
@@ -36,10 +36,12 @@ Over 6 million vectors for feature-disease links are obtained from model https:/
  EU(x) = \sum_y P_{x}(y)U(y)
 ````
 
-<img width="456" height="487" alt="table" src="https://github.com/user-attachments/assets/ccf670a4-d603-4973-88a4-7a76a8568dee)" />
+<div align="center"><img width="275" height="400" src="https://github.com/user-attachments/assets/d9054fa8-4220-4082-84f7-70a4b0047464" alt="causal" style="display: block; margin: 0 auto;"></div>
 
 where U(y) is utility of y as diagnosis. Px(y) is our probability that the outcome Y = y would occur by testing do(X = x) to establish X = x.
- 
+
+Expectation is derived from $\gamma$ normalized values in causal calculus.
+
 Script files, col_dbmi.sh, col_dbmi1.sh and col_dbmi2.sh are run sequentially to get final diagnosis.
 
 Weights for feature disease links derived from both unify and pmc clinical reports are given in data_pmc_diag1.txt and data_pmc_ndiag1.txt
