@@ -40,7 +40,12 @@ Over 6 million vectors for feature-disease links are obtained from model https:/
 
 where U(y) is utility of y as diagnosis. Px(y) is our probability that the outcome Y = y would occur by testing do(X = x) to establish X = x.
 
-Expectation is derived from $\gamma$ normalized values in causal calculus.
+Expectation y is derived from $\gamma$ normalized values in causal calculus: x,y,z are atomic weights (depending on their positions 0.1 to 09 for 3 to 9 and further add 0.01 to maximum of 0.09).
+$\beta$ is symptom-symptom distance. $\gamma$ is Q values. Initially e1,e2,e3 values are derived. Using Pearl \\
+
+````math
+y = \alpha x + \gamma z + e3
+````
 
 Script files, col_dbmi.sh, col_dbmi1.sh and col_dbmi2.sh are run sequentially to get final diagnosis.
 
